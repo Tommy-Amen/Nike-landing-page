@@ -1,12 +1,30 @@
-# React + Vite
+# Sushiman-Landing page 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
 
-Currently, two official plugins are available:
+This repository contains the code for a Nike App Landing Page. The website is designed to showcase the company's services, special offers, popular products and more while also allowing users to subscribe to a newsletter.
+It features modern web design with a focus on visual appeal and user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- The project is built to be responsive on mobile to desktop devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Usage
+
+- You just need a browser on any device to visit the
+  deployment link
+
+- _Deployment Link_
+  <https://sushimangh.netlify.app/>
+
+## Technologies
+
+- React.js
+- Tailwind
+- Vite
+
+## Author
+
+- _Name:_ Thomas Amenlemah
+- _GitHub:_ <https://github.com/Tommy-Amen>
+- _Email:_ amenlemaht@gmail.com
