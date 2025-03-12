@@ -15,7 +15,7 @@ It features modern web design with a focus on visual appeal and user experience.
   deployment link
 
 - _Deployment Link_
-  <https://sushimangh.netlify.app/>
+  <https://nike-app-landing.netlify.app/>
 
 ## Technologies
 
