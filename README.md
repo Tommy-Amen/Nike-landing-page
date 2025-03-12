@@ -1,4 +1,4 @@
-# Sushiman-Landing page 
+# Nike Landing page 
 
 ## About The Project
 
